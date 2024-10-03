@@ -1,2 +1,0 @@
-• Built a scalable online food store using MEAN stack for efficient order management and data storage. 
-• Ensured a user-centric experience with a dynamic Angular frontend for easy navigation and product browsing.
